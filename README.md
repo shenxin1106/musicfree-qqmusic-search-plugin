@@ -1,0 +1,1 @@
+# musicfree-qqmusic-search-plugin
